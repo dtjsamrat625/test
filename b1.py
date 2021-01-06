@@ -1,6 +1,7 @@
 print("This is b1 py")
 
 def funcb1c(a):
-	print("in b1c branch")
-	print("change to be shown in master")
+	a = 2
+	b = 4
+	print("new statement")
 	return a
