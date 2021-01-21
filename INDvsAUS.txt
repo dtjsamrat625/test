@@ -1,0 +1,238 @@
+
+AUSTRALIA 1ST INNINGS
+BATSMEN	 	R	B	M	4s	6s	SR	 
+Will Pucovski 	lbw b Saini	62	110	150	4	0	56.36	
+David Warner 	c Pujara b Mohammed Siraj	5	8	17	0	0	62.50	
+Marnus Labuschagne 	c Rahane b Jadeja	91	196	281	11	0	46.43	
+Steven Smith 	run out (Jadeja)	131	226	303	16	0	57.96	
+Matthew Wade 	c Bumrah b Jadeja	13	16	25	2	0	81.25	
+Cameron Green 	lbw b Bumrah	0	21	31	0	0	0.00	
+Tim Paine (c)†	 b Bumrah	1	10	18	0	0	10.00	
+Pat Cummins 	 b Jadeja	0	13	28	0	0	0.00	
+Mitchell Starc 	c Shubman Gill b Saini	24	30	32	2	1	80.00	
+Nathan Lyon 	lbw b Jadeja	0	3	5	0	0	0.00	
+Josh Hazlewood 	not out	1	6	16	0	0	16.67	
+Extras	(b 4, nb 5, w 1)	10	
+TOTAL	(105.4 Ov, RR: 3.20)	338	
+Fall of wickets: 1-6 (David Warner, 3.3 ov), 2-106 (Will Pucovski, 34.2 ov), 3-206 (Marnus Labuschagne, 70.5 ov), 4-232 (Matthew Wade, 76.5 ov), 5-249 (Cameron Green, 84.5 ov), 6-255 (Tim Paine, 88.5 ov), 7-278 (Pat Cummins, 94.4 ov), 8-310 (Mitchell Starc, 101.5 ov), 9-315 (Nathan Lyon, 102.4 ov), 10-338 (Steven Smith, 105.4 ov)
+BOWLING	O	M	R	W	ECON	WD	NB	 
+Jasprit Bumrah	25.4	7	66	2	2.57	0	0	
+Mohammed Siraj	25	4	67	1	2.68	1	0	
+Ravichandran Ashwin	24	1	74	0	3.08	0	0	
+Navdeep Saini	13	0	65	2	5.00	0	3	
+Ravindra Jadeja	18	3	62	4	3.44	0	2	
+INDIA 1ST INNINGS
+BATSMEN	 	R	B	M	4s	6s	SR	 
+Rohit Sharma 	c & b Hazlewood	26	77	111	3	1	33.77	
+Shubman Gill 	c Green b Cummins	50	101	134	8	0	49.50	
+Cheteshwar Pujara 	c †Paine b Cummins	50	176	278	5	0	28.41	
+Ajinkya Rahane (c)	 b Cummins	22	70	95	1	1	31.43	
+Hanuma Vihari 	run out (Hazlewood)	4	38	56	0	0	10.53	
+Rishabh Pant †	c Warner b Hazlewood	36	67	101	4	0	53.73	
+Ravindra Jadeja 	not out	28	37	75	5	0	75.68	
+Ravichandran Ashwin 	run out (Cummins/Labuschagne)	10	15	23	2	0	66.67	
+Navdeep Saini 	c Wade b Starc	3	13	11	0	0	23.08	
+Jasprit Bumrah 	run out (Labuschagne)	0	2	9	0	0	0.00	
+Mohammed Siraj 	c †Paine b Cummins	6	10	28	1	0	60.00	
+Extras	(lb 2, nb 2, w 5)	9	
+TOTAL	(100.4 Ov, RR: 2.43)	244	
+Fall of wickets: 1-70 (Rohit Sharma, 26.6 ov), 2-85 (Shubman Gill, 32.1 ov), 3-117 (Ajinkya Rahane, 54.4 ov), 4-142 (Hanuma Vihari, 67.2 ov), 5-195 (Rishabh Pant, 87.4 ov), 6-195 (Cheteshwar Pujara, 88.2 ov), 7-206 (Ravichandran Ashwin, 92.2 ov), 8-210 (Navdeep Saini, 94.5 ov), 9-216 (Jasprit Bumrah, 96.3 ov), 10-244 (Mohammed Siraj, 100.4 ov)
+BOWLING	O	M	R	W	ECON	WD	NB	 
+Mitchell Starc	19	7	61	1	3.21	0	2	
+Josh Hazlewood	21	10	43	2	2.05	1	0	
+Pat Cummins	21.4	10	29	4	1.34	0	0	
+Nathan Lyon	31	8	87	0	2.81	0	0	
+Marnus Labuschagne	3	0	11	0	3.67	0	0	
+Cameron Green	5	2	11	0	2.20	0	0	
+AUSTRALIA 2ND INNINGS
+BATSMEN	 	R	B	M	4s	6s	SR	 
+David Warner 	lbw b Ashwin	13	29	50	1	0	44.83	
+Will Pucovski 	c sub (WP Saha) b Mohammed Siraj	10	16	30	2	0	62.50	
+Marnus Labuschagne 	c sub (WP Saha) b Saini	73	118	179	9	0	61.86	
+Steven Smith 	lbw b Ashwin	81	167	261	8	1	48.50	
+Matthew Wade 	c sub (WP Saha) b Saini	4	11	16	1	0	36.36	
+Cameron Green 	c sub (WP Saha) b Bumrah	84	132	183	8	4	63.64	
+Tim Paine (c)†	not out	39	52	99	6	0	75.00	
+Extras	(b 1, lb 4, nb 3)	8	
+TOTAL	(87 Ov, RR: 3.58)	312/6d	
+Did not bat: Pat Cummins, Mitchell Starc, Nathan Lyon, Josh Hazlewood 
+Fall of wickets: 1-16 (Will Pucovski, 5.5 ov), 2-35 (David Warner, 9.2 ov), 3-138 (Marnus Labuschagne, 46.1 ov), 4-148 (Matthew Wade, 48.6 ov), 5-208 (Steven Smith, 67.4 ov), 6-312 (Cameron Green, 86.6 ov)
+BOWLING	O	M	R	W	ECON	WD	NB	 
+Jasprit Bumrah	21	4	68	1	3.24	0	0	
+Mohammed Siraj	25	5	90	1	3.60	0	1	
+Navdeep Saini	16	2	54	2	3.38	0	2	
+Ravichandran Ashwin	25	1	95	2	3.80	0	0	
+INDIA 2ND INNINGS (TARGET: 407 RUNS)
+BATSMEN	 	R	B	M	4s	6s	SR	 
+Rohit Sharma 	c Starc b Cummins	52	98	136	5	1	53.06	
+Shubman Gill 	c †Paine b Hazlewood	31	64	103	4	0	48.44	
+Cheteshwar Pujara 	 b Hazlewood	77	205	205	12	0	37.56	
+Ajinkya Rahane (c)	c Wade b Lyon	4	18	18	0	0	22.22	
+Rishabh Pant †	c Cummins b Lyon	97	118	118	12	3	82.20	
+Hanuma Vihari 	not out	23	161	161	4	0	14.29	
+Ravichandran Ashwin 	not out	39	128	128	7	0	30.47	
+Extras	(lb 3, nb 6, w 2)	11	
+TOTAL	(131 Ov, RR: 2.55)	334/5	
+Did not bat: Ravindra Jadeja, Navdeep Saini, Jasprit Bumrah, Mohammed Siraj 
+Fall of wickets: 1-71 (Shubman Gill, 22.1 ov), 2-92 (Rohit Sharma, 30.2 ov), 3-102 (Ajinkya Rahane, 35.4 ov), 4-250 (Rishabh Pant, 79.1 ov), 5-272 (Cheteshwar Pujara, 88.2 ov)
+BOWLING	O	M	R	W	ECON	WD	NB	 
+Mitchell Starc	22	6	66	0	3.00	0	2	
+Josh Hazlewood	26	12	39	2	1.50	0	1	
+Pat Cummins	26	6	72	1	2.77	0	2	
+Nathan Lyon	46	17	114	2	2.48	0	0	
+Cameron Green	7	0	31	0	4.43	2	0	
+Marnus Labuschagne	4	2	9	0	2.25	0	1	
+MATCH DETAILS
+Sydney Cricket Ground
+Toss	Australia, elected to bat first
+Series	
+India tour of Australia
+ICC World Test Championship
+Season	2020/21
+Player Of The Match	
+Steven Smith
+Steven Smith
+Series result	4-match series level 1-1
+Match number	TEST No. 2402
+Match days	7,8,9,10,11 January 2021 - day match (5-day match)
+Test debut	
+Navdeep Saini
+Navdeep Saini
+Will Pucovski
+Will Pucovski
+Umpires	
+Australia Image
+Paul Reiffel
+Australia Image
+Paul Wilson
+TV Umpire	
+Australia Image
+Bruce Oxenford
+Reserve Umpire	
+Australia Image
+Claire Polosak
+Match Referee	
+Australia Image
+David Boon
+Points	Australia 10, India 10
+CLOSE OF PLAY
+Thu, 07 Jan - day 1 -Australia 1st innings 166/2 (Marnus Labuschagne 67*, Steven Smith 31*, 55 ov)
+Fri, 08 Jan - day 2 -India 1st innings 96/2 (Cheteshwar Pujara 9*, Ajinkya Rahane 5*, 45 ov)
+Sat, 09 Jan - day 3 -Australia 2nd innings 103/2 (Marnus Labuschagne 47*, Steven Smith 29*, 29 ov)
+Sun, 10 Jan - day 4 -India 2nd innings 98/2 (Cheteshwar Pujara 9*, Ajinkya Rahane 4*, 34 ov)
+Mon, 11 Jan - day 5 -India 2nd innings 334/5 (131 ov) - end of match
+MATCH NOTES
+Day 1
+Australia 1st innings
+Rain: Australia - 21/1 in 7.1 overs (WJ Pucovski 14, M Labuschagne 2)
+Lunch: Australia - 21/1 in 7.1 overs (WJ Pucovski 14, M Labuschagne 2)
+Rain: Australia - 21/1 in 7.1 overs (WJ Pucovski 14, M Labuschagne 2)
+Wet Ground: Australia - 21/1 in 7.1 overs (WJ Pucovski 14, M Labuschagne 2)
+Australia: 50 runs in 23.2 overs (140 balls), Extras 0
+2nd Wicket: 50 runs in 124 balls (WJ Pucovski 31, M Labuschagne 19, Ex 0)
+WJ Pucovski: 50 off 97 balls (4 x 4)
+Tea: Australia - 93/1 in 31.0 overs (WJ Pucovski 54, M Labuschagne 34)
+Wet Ground: Australia - 93/1 in 31.0 overs (WJ Pucovski 54, M Labuschagne 34)
+Australia: 100 runs in 32.6 overs (198 balls), Extras 0
+2nd Wicket: 100 runs in 184 balls (WJ Pucovski 61, M Labuschagne 39, Ex 0)
+M Labuschagne: 50 off 108 balls (6 x 4)
+Drinks: Australia - 148/2 in 43.0 overs (M Labuschagne 56, SPD Smith 24)
+Australia: 150 runs in 43.2 overs (261 balls), Extras 1
+3rd Wicket: 50 runs in 80 balls (M Labuschagne 25, SPD Smith 27, Ex 1)
+End Of Day: Australia - 166/2 in 55.0 overs (M Labuschagne 67, SPD Smith 31)
+Day 2
+Over 63.2: Review by India (Bowling), Umpire - P Wilson, Batsman - SPD Smith (Struck down)
+Rain: Australia - 188/2 in 66.0 overs (M Labuschagne 78, SPD Smith 42)
+Australia: 200 runs in 68.5 overs (414 balls), Extras 1
+3rd Wicket: 100 runs in 218 balls (M Labuschagne 52, SPD Smith 47, Ex 1)
+SPD Smith: 50 off 116 balls (7 x 4)
+Rain: Australia - 213/3 in 72.0 overs (SPD Smith 52, MS Wade 2)
+New ball taken after 80 overs
+Lunch: Australia - 249/5 in 84.5 overs (SPD Smith 76)
+Australia: 250 runs in 87.3 overs (526 balls), Extras 2
+SPD Smith: 100 off 201 balls (13 x 4)
+Australia: 300 runs in 100.1 overs (605 balls), Extras 9
+Drinks: Australia - 310/8 in 101.5 overs (SPD Smith 104)
+Over 102.4: Review by Australia (Batting), Umpire - PR Reiffel, Batsman - NM Lyon (Struck down)
+Innings Break: Australia - 338/10 in 105.4 overs (JR Hazlewood 1)
+India 1st innings
+Tea: India - 26/0 in 9.0 overs (RG Sharma 11, Shubman Gill 14)
+India: 50 runs in 18.1 overs (110 balls), Extras 1
+1st Wicket: 50 runs in 110 balls (RG Sharma 22, Shubman Gill 27, Ex 1)
+Over 23.4: Review by India (Batting), Umpire - P Wilson, Batsman - RG Sharma (Upheld)
+Drinks: India - 70/1 in 27.0 overs (Shubman Gill 38)
+Shubman Gill: 50 off 100 balls (8 x 4)
+Over 39.4: Review by Australia (Bowling), Umpire - P Wilson, Batsman - AM Rahane (Struck down - Umpires Call)
+End Of Day: India - 96/2 in 45.0 overs (CA Pujara 9, AM Rahane 5)
+Day 3
+India: 100 runs in 45.5 overs (276 balls), Extras 6
+Over 55.3: Review by Australia (Bowling), Umpire - P Wilson, Batsman - CA Pujara (Struck down)
+Drinks: India - 132/3 in 63.0 overs (CA Pujara 27, GH Vihari 1)
+India: 150 runs in 69.3 overs (418 balls), Extras 6
+Over 73.1: Review by Australia (Bowling), Umpire - P Wilson, Batsman - RR Pant (Struck down)
+Lunch: India - 180/4 in 79.0 overs (CA Pujara 42, RR Pant 29)
+New ball taken after 80 overs
+5th Wicket: 50 runs in 115 balls (CA Pujara 15, RR Pant 35, Ex 1)
+CA Pujara: 50 off 174 balls (5 x 4)
+India: 200 runs in 89.4 overs (539 balls), Extras 7
+Drinks: India - 202/6 in 90.0 overs (RA Jadeja 1, R Ashwin 6)
+Innings Break: India - 244/10 in 100.4 overs (RA Jadeja 28)
+Over 100.4: Review by India (Batting), Umpire - PR Reiffel, Batsman - Mohammed Siraj (Struck down)
+Australia 2nd innings
+WP Saha kept wickets in place of RR Pant from the start of the 3rd innings
+Over 9.2: Review by Australia (Batting), Umpire - PR Reiffel, Batsman - DA Warner (Struck down - Umpires Call)
+Over 11.1: Review by India (Bowling), Umpire - PR Reiffel, Batsman - SPD Smith (Struck down - Umpires Call)
+Drinks: Australia - 41/2 in 13.0 overs (M Labuschagne 13, SPD Smith 3)
+Australia: 50 runs in 13.6 overs (85 balls), Extras 2
+3rd Wicket: 50 runs in 87 balls (M Labuschagne 28, SPD Smith 22, Ex 1)
+Australia: 100 runs in 28.5 overs (176 balls), Extras 4
+End Of Day: Australia - 103/2 in 29.0 overs (M Labuschagne 47, SPD Smith 29)
+Tea: Australia - 0/0
+Day 4
+M Labuschagne: 50 off 82 balls (6 x 4)
+3rd Wicket: 100 runs in 220 balls (M Labuschagne 61, SPD Smith 36, Ex 3)
+Drinks: Australia - 143/3 in 48.0 overs (SPD Smith 39, MS Wade 4)
+Australia: 150 runs in 49.3 overs (300 balls), Extras 4
+SPD Smith: 50 off 134 balls (5 x 4)
+Lunch: Australia - 182/4 in 64.0 overs (SPD Smith 58, C Green 20)
+5th Wicket: 50 runs in 98 balls (SPD Smith 29, C Green 21, Ex 0)
+Australia: 200 runs in 66.2 overs (401 balls), Extras 4
+Over 67.4: Review by India (Bowling), Umpire - PR Reiffel, Batsman - SPD Smith (Upheld)
+Australia: 250 runs in 77.6 overs (471 balls), Extras 4
+6th Wicket: 50 runs in 67 balls (C Green 21, TD Paine 29, Ex 0)
+Drinks: Australia - 258/5 in 79.0 overs (C Green 44, TD Paine 29)
+New ball taken after 82nd over
+C Green: 50 off 116 balls (7 x 4)
+Australia: 300 runs in 85.6 overs (519 balls), Extras 8
+6th Wicket: 100 runs in 115 balls (C Green 61, TD Paine 39, Ex 4)
+Tea: Australia - 312/6 in 87.0 overs (TD Paine 39)
+Over 86.6: Review by Australia (Batting), Umpire - P Wilson, Batsman - C Green (Struck down)
+India 2nd innings
+Over 7.2: Review by India (Batting), Umpire - PR Reiffel, Batsman - RG Sharma (Upheld)
+Over 7.4: Review by Australia (Bowling), Umpire - PR Reiffel, Batsman - Shubman Gill (Struck down)
+Drinks: India - 46/0 in 17.0 overs (RG Sharma 22, Shubman Gill 23)
+India: 50 runs in 18.6 overs (114 balls), Extras 1
+1st Wicket: 50 runs in 114 balls (RG Sharma 22, Shubman Gill 30, Ex 1)
+Over 22.1: Review by India (Batting), Umpire - P Wilson, Batsman - Shubman Gill (Struck down)
+Over 22.4: Review by India (Batting), Umpire - P Wilson, Batsman - CA Pujara (Upheld)
+RG Sharma: 50 off 95 balls (5 x 4, 1 x 6)
+End Of Day: India - 98/2 in 34.0 overs (CA Pujara 9, AM Rahane 4)
+Day 5
+India: 100 runs in 35.2 overs (213 balls), Extras 2
+India: 150 runs in 52.3 overs (318 balls), Extras 4
+4th Wicket: 50 runs in 103 balls (CA Pujara 13, RR Pant 35, Ex 2)
+Drinks: India - 152/3 in 53.0 overs (CA Pujara 26, RR Pant 35)
+RR Pant: 50 off 64 balls (4 x 4, 3 x 6)
+India: 200 runs in 67.6 overs (412 balls), Extras 5
+4th Wicket: 100 runs in 197 balls (CA Pujara 24, RR Pant 73, Ex 3)
+Lunch: India - 206/3 in 70.0 overs (CA Pujara 41, RR Pant 73)
+CA Pujara: 50 off 170 balls (7 x 4)
+India: 250 runs in 78.1 overs (473 balls), Extras 8
+New ball taken after 80th over
+Drinks: India - 262/4 in 84.0 overs (CA Pujara 70, GH Vihari 0)
+Over 91.4: Review by Australia (Bowling), Umpire - PR Reiffel, Batsman - R Ashwin (Struck down)
+Tea: India - 280/5 in 96.0 overs (GH Vihari 4, R Ashwin 7)
+Over 96.1: Review by India (Batting), Umpire - P Wilson, Batsman - R Ashwin (Upheld)
+India: 300 runs in 114.6 overs (694 balls), Extras 8
+Drinks: India - 305/5 in 117.0 overs (GH Vihari 7, R Ashwin 28)
+6th Wicket: 50 runs in 246 balls (GH Vihari 16, R Ashwin 33, Ex 3)
